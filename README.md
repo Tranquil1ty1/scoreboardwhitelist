@@ -1,0 +1,2 @@
+# scoreboardwhitelist
+Yes
